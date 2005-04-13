@@ -26,7 +26,7 @@ use strict;
 my $package = __PACKAGE__;
 require MIME::Base64;
 
-our $VERSION = '0.82.02';
+our $VERSION = '0.82.03';
 
 # GLOBAL VARIABLES
 my $contentType = "";

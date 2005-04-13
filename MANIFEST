@@ -6,3 +6,4 @@ ppport.h
 README
 t/Crypt.t
 lib/My/Crypt.pm
+META.yml                                 Module meta-data (added by MakeMaker)

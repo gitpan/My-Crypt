@@ -1,5 +1,5 @@
-Crypt version 0.01
-==================
+My::Crypt version 0.82.03
+=========================
 
 The README is used to introduce the module and provide instructions on
 how to install the module, any machine dependencies it may have (for
@@ -25,11 +25,9 @@ DEPENDENCIES
 
 This module requires these other modules and libraries:
 
-  blah blah blah
+  none
 
 COPYRIGHT AND LICENCE
-
-Put the correct copyright and licence information here.
 
 Copyright (C) 2005 by Reto Hersiczky
 
@@ -37,4 +35,15 @@ This library is free software; you can redistribute it and/or modify
 it under the same terms as Perl itself, either Perl version 5.8.3 or,
 at your option, any later version of Perl 5 you may have available.
 
+Feel free to use it for commercial purposes or just for pleasure. 
+You may change the code for your needs if you like. Redistribution 
+and use in source and binary forms, with or without modification, 
+are permitted.
+
+I ask you to leave the link to the related documentation anywhere 
+at the the top of the module in case of redistribution my code.
+
+SEE ALSO
+
+http://www.infocopter.com/perl/licencing.html
 
