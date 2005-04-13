@@ -3,3 +3,5 @@ Revision history for Perl extension Crypt.
 0.82.04  Wed Apr 13 16:20:46 2005
 	- Added / fixed make test code
 
+0.82.05  Wed Apr 14 00:58:00 2005
+	- Updated comment

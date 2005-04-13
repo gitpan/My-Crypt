@@ -26,7 +26,7 @@ use strict;
 my $package = __PACKAGE__;
 require MIME::Base64;
 
-our $VERSION = '0.82.04';
+our $VERSION = '0.82.05';
 
 # GLOBAL VARIABLES
 my $contentType = "";
@@ -224,7 +224,7 @@ __END__
 
 =head1 NAME
 
-My::Crypt - Perl extension for blah blah blah
+My::Crypt - Easy to use symmetric data encryption and decryption
 
 =head1 SYNOPSIS
 
