@@ -1,0 +1,8 @@
+Changes
+Crypt.xs
+Makefile.PL
+MANIFEST
+ppport.h
+README
+t/Crypt.t
+lib/My/Crypt.pm
